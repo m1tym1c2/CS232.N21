@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Nhập môn công nghệ phần mềm</b></h>
+<h1 align="center"><b>Tính toán đa phương tiện</b></h>
 
 ## THÀNH VIÊN NHÓM
 |STT| MSSV      | Họ và Tên       | Github                                                  | Email                   |
